@@ -4,7 +4,7 @@
         <link rel="stylesheet" href="teacherstyle.css">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
         <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-        <meta name="viewport" content="width=device-width,initial-scale=1.0">
+        <meta charset="utf-8" name="viewport" content="width=device-width,initial-scale=1.0">
         <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js"></script>
         <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
         <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
@@ -60,9 +60,9 @@
         </div>
         <div class="col-md-6">
       
-        <div class="about-content">
-        <img src="pic1.jpg" style="width: 390px;height: 300px">
-        </div>
+        
+        <img class="row d-flex align-contents-center justify-centents-center" src="pic1.jpg" style="height: 300px" ">
+       
         </div>
         </div>
         </div>
