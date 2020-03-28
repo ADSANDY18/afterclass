@@ -1,0 +1,110 @@
+*
+{
+    margin: 0;
+    padding: 0;
+}
+/*---------Navbar---*/
+#nav-bar
+{
+ position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.navbar-brand img
+{
+    height: 40px;
+    padding-left: 20px;
+}
+.navbar-nav li
+{
+    padding: 0 10px;
+}
+.navbar-nav li a
+{
+    float: right;
+    text-align: left;
+}
+#nav-bar ul li a:hover
+{
+    color: #007bff!important;
+}
+.navbar
+{
+    background: #fff;
+}
+.navbar-toggler
+{
+    border: none!important;
+}
+.nav-link
+{
+    color: #555!important;
+    font-weight: 600;
+    font-size: 16px;
+}
+/*----------topcontainer---------*/
+#cityfilter
+{
+    background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url(indexbackground4.png);
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    background-attachment: fixed;
+    text-align: center;
+    padding: 100px;
+    font-family: sans-serif;
+    font-size: 16px;
+    
+}
+
+#bt1
+{
+    margin-bottom: 12px;
+    padding-bottom: 40px;
+}
+
+
+
+/*----------AboutAndWhy------*/
+#mainpageabout
+{
+    padding-top: 50px;
+    padding-bottom: 25px;
+    color: #555;
+}
+#mainpageabout .btn
+{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.about-content
+{
+   padding-top: 20px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
