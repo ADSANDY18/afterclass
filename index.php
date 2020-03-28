@@ -61,7 +61,7 @@
         <div class="col-md-6">
       
         
-        <img class="row d-flex align-contents-center justify-centents-center" src="pic1.jpg" style="height: 300px" ">
+        <img class="row d-flex align-contents-center justify-centents-center" src="pic1.jpg">
        
         </div>
         </div>
