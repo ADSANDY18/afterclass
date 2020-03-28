@@ -61,7 +61,7 @@
         <div class="col-md-6">
       
         <div class="about-content">
-        <img src="pic1.jpg" style="width: 3900px;height: 300px">
+        <img src="pic1.jpg" style="width: 390px;height: 300px">
         </div>
         </div>
         </div>
